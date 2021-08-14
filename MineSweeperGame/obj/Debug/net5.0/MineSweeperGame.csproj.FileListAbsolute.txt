@@ -1,0 +1,32 @@
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.exe
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.deps.json
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.runtimeconfig.json
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.runtimeconfig.dev.json
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.dll
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\ref\MineSweeperGame.dll
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.pdb
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.csproj.AssemblyReference.cache
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.AssemblyInfoInputs.cache
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.AssemblyInfo.cs
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.csproj.CoreCompileInputs.cache
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.dll
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\ref\MineSweeperGame.dll
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.pdb
+D:\Practices\.NET Core\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.genruntimeconfig.cache
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.exe
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.deps.json
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.runtimeconfig.json
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.runtimeconfig.dev.json
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.dll
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\ref\MineSweeperGame.dll
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\bin\Debug\net5.0\MineSweeperGame.pdb
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.csprojAssemblyReference.cache
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.AssemblyInfoInputs.cache
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.AssemblyInfo.cs
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.csproj.CoreCompileInputs.cache
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.dll
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\ref\MineSweeperGame.dll
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.pdb
+C:\Users\onurc\OneDrive\Desktop\MineSweeperGame\MineSweeperGame\obj\Debug\net5.0\MineSweeperGame.genruntimeconfig.cache

@@ -29,6 +29,7 @@ Example output (for the above input)
 12*1
 0111
 ```
+![Mine_Sweeper_Console01](https://user-images.githubusercontent.com/39779689/131257759-c6239f76-7f6b-42b2-8591-2f37e4ca5b72.png)
 
 # Getting Started
 

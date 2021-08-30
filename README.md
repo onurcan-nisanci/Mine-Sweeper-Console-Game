@@ -11,7 +11,7 @@ which are mines)
 ....
 ```
 
-Your purpose here is to write a program to accept this input and
+My purpose here was to write a program to accept this input and
 produce as output a hint-field of identical dimensions.
 
 **Rules of the game:**
